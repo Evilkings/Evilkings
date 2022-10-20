@@ -3,9 +3,5 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=(EviL+KinG+ProgramminG);Contact+me+%F0%9F%93%AB)](https://git.io/typing-svg)
 
-<!---
-Evilkings/Evilkings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0B00F7&width=435&lines=EviL+KinG+ProgramminG)](https://git.io/typing-svg)
